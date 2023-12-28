@@ -1,0 +1,13 @@
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\Projeto_LH_Pet.exe
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\appsettings.json
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\Projeto_LH_Pet.dll
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\Projeto_LH_Pet.deps.json
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\Projeto_LH_Pet.runtimeconfig.json
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\Projeto_LH_Pet.pdb
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cleidson Barbosa\Desktop\Projeto_LH_Pet\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

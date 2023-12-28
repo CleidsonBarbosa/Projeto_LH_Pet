@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "A0hKfohl5roK3BtoJQ0o1gMkLCoaw/Ry8qgbKk3tDbI=",
+  "Source": "Projeto_LH_Pet",
+  "BasePath": "_content/Projeto_LH_Pet",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_LH_Pet\\wwwroot",
+      "Source": "Projeto_LH_Pet",
+      "ContentRoot": "C:\\Users\\Cleidson Barbosa\\Desktop\\Projeto_LH_Pet\\wwwroot\\",
+      "BasePath": "_content/Projeto_LH_Pet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Cleidson Barbosa\\Desktop\\Projeto_LH_Pet\\wwwroot\\index.html",
+      "SourceId": "Projeto_LH_Pet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cleidson Barbosa\\Desktop\\Projeto_LH_Pet\\wwwroot\\",
+      "BasePath": "_content/Projeto_LH_Pet",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
